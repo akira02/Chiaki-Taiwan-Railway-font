@@ -43,6 +43,17 @@
 ```
 <img width="738" alt="截圖 2023-08-08 下午5 33 08" src="https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/5fd8c5ee-11c1-4bd9-95b9-4aae78e32ac2">
 
+#### 國音電碼
+註：國音電碼現存圖像資料較少，多數注音符號為自行製作
+```
+ㄅㄆㄇㄈㄉㄊㄋㄌ
+ㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖ
+ㄗㄘㄙㄚㄛㄜㄝ
+ㄞㄟㄠㄡㄢㄣㄤㄥ
+ㄦㄧㄨㄩ
+```
+<img width="523" alt="截圖 2023-08-09 上午2 04 49" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/5992562d-8807-4953-86c5-80f21ceed560">
+
 
 ### 日本国有鉄道(国鉄)鉄道管理局
 部分漢字收錄於文體集4
