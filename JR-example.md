@@ -1,3 +1,8 @@
+## 使用例
+<img width="495" alt="截圖 2023-08-09 上午2 44 55" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/01c591d7-504f-4fdd-a09a-128172b97eee">
+<img width="520" alt="截圖 2023-08-09 上午2 45 16" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/0c6b3f77-64ae-4a7f-bc37-ce29bca583dc">
+
+
 ## 客車所属標記ついて
 
 ### 客車配置区名および所属標記（昭和４０年頃）
@@ -968,5 +973,5 @@
         </tbody>
       </table>
 
-### 鳴謝
-- 鉄道史資料保存会
+### 参照
+- 鋼製客車明細図集(鉄道史資料保存会)
