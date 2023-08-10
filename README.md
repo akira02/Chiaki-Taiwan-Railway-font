@@ -1,21 +1,32 @@
 ![cover](https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/f27eac67-aa7a-4d4a-ab71-24b38215bd4f)
 # Chiaki Taiwan Railway Font 千秋式臺鐵客貨車標記文字
-在繁華的現代都市中，有一種特殊的文化符號，承載著歲月的痕跡，記錄著鐵道的奮鬥與榮耀。  
+在繁華的現代都市中，有一種特殊的文字，承載著台灣的歷史與歲月的痕跡。  
   
-「千秋式臺鐵客貨車標記文字」是一款由千秋製作，復刻自臺鐵早期客貨車車身標記文字的字體，源自過去，以數位技術保存傳統，將臺鐵的輝煌歷史重新注入現代的視野。
+「千秋式臺鐵客貨車標記文字」是一款以臺鐵早期傳統車身標記文字為靈感，重新製作、復刻的字體，希望能以數位技術保存這份珍貴的傳統。
 
-## 鐵道傳承，文化永恆
+### 鐵道傳承，文化永恆
 隨著時代的變遷，臺鐵的字型也經歷了多次演變，最早可追溯自從1935年首次引進台灣的C55型蒸汽機車上的銘牌，這種經典字體承襲自日本鐵道省所制定的機車字體，不僅成為蒸汽機車的標誌，也在1960年代的柴電機車和1970年代的電力機車中延續使用。  
 這套傳統字體從最早的車身手工繪畫，改為噴漆字模，到後期被新式電腦字體取代，如今，這款傳統的字體以全新的姿態重新面世。  
-我們走訪了各地，根據各種歷史資料與照片，重新復刻了這套字體，並為了使用性，自行設計並補上了若干延續了風格的字符。  
+我們走訪了各地，根據各種歷史資料與照片，重新復刻了這套字體。並為了美觀性重新調整，重新設計並補上了若干延續了風格的字符。  
 
-## 保存傳統，維護文化
-如今，面對各種電腦字體的泛濫，我們深感傳統文化的重要性。「千秋式臺鐵客貨車標記文字」的誕生，正是為了保存這份珍貴的傳統。這套字體僅供學術研究與文化保存，採用SIL開源字體條款釋出，免費向大眾開放，讓更多人能夠接觸、了解並愛上這份獨特的文化遺產。
+### 保存傳統，維護文化
+「千秋式臺鐵客貨車標記文字」的誕生，正是為了以數位技術保存這份珍貴的傳統。這套字體旨在貢獻台灣歷史的學術研究與文化保存，採用SIL開源字體條款釋出，免費向大眾開放，讓更多人能夠接觸、了解並愛上這份獨特的文化遺產。
+
+## 下載
+Format: OpenType / TrueType  
+License: SIL OPEN FONT LICENSE
+
+- [ChiakiTaiwanRailwayFont-Regular.ttf](https://github.com/akira02/Chiaki-Taiwan-Railway-font/raw/main/fonts/ChiakiTaiwanRailwayFont-Regular.ttf)  
+- [Web fonts](https://github.com/akira02/Chiaki-Taiwan-Railway-font/fonts/)
 
 ## 收錄字
 
 ### 共通英數字
 <img width="808" alt="截圖 2023-08-08 下午9 40 15" src="https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/dedb27f3-17a3-4d3d-b242-faa46a08619f">
+
+### 數字
+![example](https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/6f368d8b-a018-44fa-bd0e-29905067b09b)
+
 
 #### 車身車號用數字
 收錄於一般數字區 `uni0030-uni0039`  
@@ -87,8 +98,13 @@
 <img width="537" alt="截圖 2023-08-08 下午10 54 17" src="https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/8a7a8ecb-29e9-40a3-9d1a-ef3a5c820fd4">
 
 
+## 製作
+涼風千秋 https://www.plurk.com/akira02  
+  
+若有更多關於車身國音電碼的照片，歡迎來信
+maid@chiaki.ch
 
-## 參考資料
+## 致謝
 - 鋼製客車明細図集，鉄道史資料保存会，1985
 - 洪逸文 前輩（「鐵道專欄」社團）
 - [鉄道CAD製作所](http://tecs.g2.xrea.com/hyouki/num/num.html)
