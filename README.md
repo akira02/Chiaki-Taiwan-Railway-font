@@ -52,7 +52,8 @@ License: SIL OPEN FONT LICENSE
 長噸高立盈荷瓲米  
 寢臺塗一二三形式
 ```
-<img width="738" alt="截圖 2023-08-08 下午5 33 08" src="https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/5fd8c5ee-11c1-4bd9-95b9-4aae78e32ac2">
+<img width="842" alt="截圖 2023-08-10 下午10 51 15" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/d8973644-db7c-4419-97a7-f31a0dc213f1">
+
 
 #### 國音電碼
 註：國音電碼現存圖像資料較少，多數注音符號為自行製作
