@@ -50,7 +50,7 @@ License: SIL OPEN FONT LICENSE
 及文體集2  
 `０１２３４５６７８９`
 
-如何使用文體集替換字符請見FAQ [#如何使用文體集替換字符？](#如何使用文體集替換字符？)
+如何使用文體集替換字符請見FAQ [#如何使用文體集替換字符？](#如何使用文體集替換字符)
 
 <img width="853" alt="截圖 2023-08-08 下午11 55 08" src="https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/13f8580e-0769-4b2d-b04b-26056642f29f">
 
