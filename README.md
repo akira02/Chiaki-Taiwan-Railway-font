@@ -115,7 +115,7 @@ License: SIL OPEN FONT LICENSE
 ## 製作
 涼風千秋 https://www.plurk.com/akira02  
   
-問題回報、合作洽談、或有更多關於車身國音電碼的照片，歡迎來信
+問題回報、洽談或有更多關於車身國音電碼的照片，歡迎來信
 maid@chiaki.ch
 
 ## 致謝
