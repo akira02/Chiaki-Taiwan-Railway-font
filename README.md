@@ -17,7 +17,7 @@ Format: OpenType / TrueType
 License: SIL OPEN FONT LICENSE
 
 - [ChiakiTaiwanRailwayFont-Regular.ttf](https://github.com/akira02/Chiaki-Taiwan-Railway-font/raw/main/fonts/ChiakiTaiwanRailwayFont-Regular.ttf)  
-- [Web fonts](https://github.com/akira02/Chiaki-Taiwan-Railway-font/fonts/)
+- [Web fonts](https://github.com/akira02/Chiaki-Taiwan-Railway-font/tree/main/fonts)
 
 ## 收錄字
 
@@ -42,6 +42,8 @@ License: SIL OPEN FONT LICENSE
 及文體集2  
 `０１２３４５６７８９`
 
+如何使用文體集替換字符請見FAQ [#如何使用文體集替換字符？](#如何使用文體集替換字符？)
+
 <img width="853" alt="截圖 2023-08-08 下午11 55 08" src="https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/13f8580e-0769-4b2d-b04b-26056642f29f">
 
 
@@ -64,7 +66,10 @@ License: SIL OPEN FONT LICENSE
 ㄞㄟㄠㄡㄢㄣㄤㄥ
 ㄦㄧㄨㄩ
 ```
-<img width="523" alt="截圖 2023-08-09 上午2 04 49" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/5992562d-8807-4953-86c5-80f21ceed560">
+<img width="707" alt="image" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/c3d2be54-9b97-4a00-84a5-50a1f1f92532">  
+
+> 若有更多關於車身國音電碼的照片，歡迎來信  
+> maid@chiaki.ch
 
 
 ### 日本国有鉄道(国鉄)鉄道管理局
@@ -102,10 +107,27 @@ License: SIL OPEN FONT LICENSE
 ## 製作
 涼風千秋 https://www.plurk.com/akira02  
   
-若有更多關於車身國音電碼的照片，歡迎來信
+問題回報、合作洽談、或有更多關於車身國音電碼的照片，歡迎來信
 maid@chiaki.ch
 
 ## 致謝
+- 交通部臺灣鐵路管理局
+- 新編台灣鐵道史全文譯本，臺灣總督府鐵道部，2022
 - 鋼製客車明細図集，鉄道史資料保存会，1985
 - 洪逸文 前輩（「鐵道專欄」社團）
 - [鉄道CAD製作所](http://tecs.g2.xrea.com/hyouki/num/num.html)
+
+## FAQ
+### 為什麼字體名稱是「千秋式」？
+因為本字體並非完全依照歷史原版字體製作，而是在原版字體的基礎上，重新設計了一些字元，並且加入了一些原版字體沒有的字元，因此取名為「千秋式」以供區別。
+
+### 如何使用文體集替換字符？
+ 
+Word：選取想改變的文字 → 在「常用」中點開「文字效果」下拉選單 → 點選「文體集」個別的第一個
+或者選取文字 → 在「格式」選取「字型」（可使用快捷鍵 cmd+D 或 ⌘+D） → 選擇「進階」 → 在「進階印刷樣式」裡點開「文體集」，選擇「1」
+
+Pages：選取想改變的文字 → 在「格式」選取「字體」（可使用快捷鍵 ⌘+T） → 選擇彈出視窗左上方的「…」→ 選擇「字體排印」→ 勾選「替用文體集」中的「文體集 1」
+
+Illustrator CC：只要有開啟 OpenType 功能，選取想改變的文字後，右下角就可以選擇啦！（非 CC 的話還是得用字符列表選取喔）
+
+InDesign CC：只要有開啟 OpenType 功能，選取想改變的文字後，右下角就可以選擇啦！（非 CC 的話還是得用字符列表選取喔）
