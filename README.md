@@ -1,4 +1,5 @@
-![cover](https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/f27eac67-aa7a-4d4a-ab71-24b38215bd4f)
+![cover](https://github.com/akira02/ChiakiTaiwanRailwayFont/assets/4176802/f27eac67-aa7a-4d4a-ab71-24b38215bd4f)![cover](https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/3b38ede0-0c77-4e7c-abc1-ae704f670210)
+
 # Chiaki Taiwan Railway Font 千秋式臺鐵客貨車標記文字
 在繁華的現代都市中，有一種特殊的文字，承載著台灣的歷史與歲月的痕跡。  
   
