@@ -19,6 +19,13 @@ License: SIL OPEN FONT LICENSE
 - [ChiakiTaiwanRailwayFont-Regular.ttf](https://github.com/akira02/Chiaki-Taiwan-Railway-font/raw/main/fonts/ChiakiTaiwanRailwayFont-Regular.ttf)  
 - [Web fonts](https://github.com/akira02/Chiaki-Taiwan-Railway-font/tree/main/fonts)
 
+## 使用例
+<img width="400" alt="keychain" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/7f270714-26ef-42b9-84e1-9801ff093ede">
+<img width="400" alt="model" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/6a4bd0eb-921c-41ad-9c71-ea51e0f90e97">
+<img width="400" alt="coffeemug" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/3ed0433d-7a9a-43c6-a53b-4b654b525d47">
+<img width="400" alt="road" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/3f1ec6bc-b05e-4788-a49e-2414f0798daf">
+
+
 ## 收錄字
 
 ### 共通英數字
