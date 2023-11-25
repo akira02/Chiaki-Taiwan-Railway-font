@@ -66,8 +66,8 @@ License: SIL OPEN FONT LICENSE
 <img width="842" alt="截圖 2023-08-10 下午10 51 15" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/d8973644-db7c-4419-97a7-f31a0dc213f1">
 
 
-#### 國音電碼
-[#什麼是國音電碼？](#什麼是國音電碼)  
+#### 國音符號
+[#什麼是國音符號/國音電碼？](#什麼是國音電碼)  
 ```
 ㄅㄆㄇㄈㄉㄊㄋㄌ
 ㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖ
