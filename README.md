@@ -67,7 +67,6 @@ License: SIL OPEN FONT LICENSE
 
 
 #### 國音電碼
-註：國音電碼現存圖像資料較少，多數注音符號為自行製作  
 [#什麼是國音電碼？](#什麼是國音電碼)  
 ```
 ㄅㄆㄇㄈㄉㄊㄋㄌ
@@ -76,11 +75,7 @@ License: SIL OPEN FONT LICENSE
 ㄞㄟㄠㄡㄢㄣㄤㄥ
 ㄦㄧㄨㄩ
 ```
-<img width="707" alt="image" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/c3d2be54-9b97-4a00-84a5-50a1f1f92532">  
-
-> 若有更多關於車身國音電碼的照片，歡迎來信  
-> maid@chiaki.ch
-
+<img width="904" alt="image" src="https://github.com/akira02/Chiaki-Taiwan-Railway-font/assets/4176802/42d42722-ab31-4a5e-a8ca-a1ffb8d9ad94">
 
 ### 日本国有鉄道(国鉄)鉄道管理局
 部分漢字收錄於文體集4
@@ -125,6 +120,7 @@ maid@chiaki.ch
 - 新編台灣鐵道史全文譯本，臺灣總督府鐵道部，2022
 - 鋼製客車明細図集，鉄道史資料保存会，1985
 - 洪逸文 前輩（「鐵道專欄」社團）
+- 江承勳 / ƶ銀河ƶ 國音電碼資料照片
 - [鉄道CAD製作所](http://tecs.g2.xrea.com/hyouki/num/num.html)
 
 ## FAQ
